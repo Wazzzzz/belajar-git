@@ -1,3 +1,3 @@
-# belajar-git1
+# belajar-git2
 belajar pertemuan kedua
-# kodok
+# belajar-git branch
